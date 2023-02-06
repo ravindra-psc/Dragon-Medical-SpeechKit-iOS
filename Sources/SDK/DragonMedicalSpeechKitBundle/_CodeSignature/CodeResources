@@ -14,7 +14,11 @@
 		</data>
 		<key>Correction.storyboardc/yjG-Ww-Vjo-view-tyX-md-Rec.nib</key>
 		<data>
-		QHluiwB/sx2ZhCmhA09J76DQzMo=
+		YtmCS2N1kJ7H4/xORaTY6OLARDk=
+		</data>
+		<key>Info.plist</key>
+		<data>
+		y5dvasWVSbxbKNNn/ewHxzR/uvU=
 		</data>
 		<key>acmod6_6000_enu_gen_car_f16_v1_0_1.dat</key>
 		<data>
@@ -171,10 +175,6 @@
 	<dict>
 		<key>Correction.storyboardc/CorrectionUIVCId.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JNfLa77rlGngoPlsq0WpB7DHKBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			H0VG89whDnEVz6ksYrQf5k+KHxUXkCcGMFJz5NjKHJY=
@@ -182,10 +182,6 @@
 		</dict>
 		<key>Correction.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			C11bAKCnSGjUH3f369VJSVnymzk=
-			</data>
 			<key>hash2</key>
 			<data>
 			BTLUXYhw2OHcjYOl0HUx0l1CZrovXuJTN4hfRBIIvUA=
@@ -193,21 +189,13 @@
 		</dict>
 		<key>Correction.storyboardc/yjG-Ww-Vjo-view-tyX-md-Rec.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QHluiwB/sx2ZhCmhA09J76DQzMo=
-			</data>
 			<key>hash2</key>
 			<data>
-			b0aO3aO1Eb2OH5RjEkc6stvgCBdf95xMuUl85O6q7Js=
+			IY9yoNzSsv9DbJndImK7HuhlWAhOWw1JS9MYIDQ1wkI=
 			</data>
 		</dict>
 		<key>acmod6_6000_enu_gen_car_f16_v1_0_1.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			maDlfAUFXCI0k2rHDr6wF6Uuo9w=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z3biA4ZYQHFgNi0EXCuyOyRQx6aB6UZ7Ta9LT5y9bZk=
@@ -215,10 +203,6 @@
 		</dict>
 		<key>anyspeech.fcf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			upHr8nDDvnkxSjFl1RtF6yX+XOk=
-			</data>
 			<key>hash2</key>
 			<data>
 			fvfzYJfAMR4VC+/hmN/bO3EZwxAOoY06G9PIsXarj20=
@@ -226,10 +210,6 @@
 		</dict>
 		<key>ca.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1jajxxdRmVRT9XJLxvrKy9qCGTE=
-			</data>
 			<key>hash2</key>
 			<data>
 			BOM05OWa+9jDHhDAYJv1Wd2E1fzEZkJeQ23Pht9405w=
@@ -239,10 +219,6 @@
 		</dict>
 		<key>cdd.bnf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xd3iDWndUZABQmj9c2MtrVLjpNo=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jko+NlohMKHs4ux6sZDTBW21KRA24v4wBWRO954xReI=
@@ -250,10 +226,6 @@
 		</dict>
 		<key>clc_enu_cfg3_v6_1_0.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/Rs6pqWj5Cz8wq5wVFCja5vK0GI=
-			</data>
 			<key>hash2</key>
 			<data>
 			cPsoCBfc7dv+KBHY7PakKhN35TtItclVNby+LzG7iVQ=
@@ -261,10 +233,6 @@
 		</dict>
 		<key>da.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hwGuLlipZeV+1H0KxJsRaJ3sov8=
-			</data>
 			<key>hash2</key>
 			<data>
 			H3VcSAGOf7hs5Bjzh0gj/MbWTFdjMk5GKvjM8Jzvjck=
@@ -274,10 +242,6 @@
 		</dict>
 		<key>de.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e90UwGpUE9WkmQpbTyu9P1/C/T4=
-			</data>
 			<key>hash2</key>
 			<data>
 			5yYapujfGwP09KIZtUfidp2VoyNk+0AF1ggI2JKzbVc=
@@ -287,10 +251,6 @@
 		</dict>
 		<key>en.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ivl0PR3hjT9g92YU0H0CoawVYak=
-			</data>
 			<key>hash2</key>
 			<data>
 			MsnkssyrkIaEI/0w+exqVXHYnER+Lh2m6A0+jA2GEB8=
@@ -300,10 +260,6 @@
 		</dict>
 		<key>es.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QT4S5uitmEvgm0pgLkLawgPmOiY=
-			</data>
 			<key>hash2</key>
 			<data>
 			1OXAxOSeDpmOoN7Z0kMpwkrh+4T1+5qUhgKOBKNzV08=
@@ -313,10 +269,6 @@
 		</dict>
 		<key>fi.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Lo5TuOyHcVBY2q5ttjCrq/TQglE=
-			</data>
 			<key>hash2</key>
 			<data>
 			hXXU18k8KTnUu86QsZKHEl8xap8xID2DhCk+tkQfuB0=
@@ -326,10 +278,6 @@
 		</dict>
 		<key>fr.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rUbOr/GyJ4sdeUW5HqU5TNVIgZU=
-			</data>
 			<key>hash2</key>
 			<data>
 			T1CkrBhzLSsfEu5NoQA11eOY4zL+mN8vM2hR2Z5uLMM=
@@ -339,10 +287,6 @@
 		</dict>
 		<key>hu.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SV9DI6pZ4xNGMs5QVJNqvZtIz8s=
-			</data>
 			<key>hash2</key>
 			<data>
 			UOr4jmc5OBk4x+k2xblZf07fi5AB0bAf61+qY29MCW4=
@@ -352,10 +296,6 @@
 		</dict>
 		<key>it.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0Ir4Ked0pPYWg7tP3y2ONyOTiw4=
-			</data>
 			<key>hash2</key>
 			<data>
 			22fluX9qeVjo7NH06pUh7GWPy/bGvF8erFFXaZYHO9c=
@@ -365,10 +305,6 @@
 		</dict>
 		<key>nb.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NxwzyxneGL+rVCKNuwHmJjClGrQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			P5cs63YDUb/8/+t+8A3d3scTEplyPT/OAc49XNzHg6c=
@@ -378,10 +314,6 @@
 		</dict>
 		<key>nl.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hOE49PfVsdHPJazqLc7zMdDOwEw=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZtfZUXXwU8Ca3MkqazoR4c2p/TUNvLKdrp1KOGLZLIs=
@@ -391,10 +323,6 @@
 		</dict>
 		<key>pt.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CY8A5N/HXB0WZHO1whHGb2grEcg=
-			</data>
 			<key>hash2</key>
 			<data>
 			FfjXaWtA+Ij5oeIWph+/rzKaxM0XpB+dR4TT0aGY4DU=
@@ -404,10 +332,6 @@
 		</dict>
 		<key>sl.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0nDsJ9K7IDTpdvPQ25IyWKKJBVU=
-			</data>
 			<key>hash2</key>
 			<data>
 			BdXDjbmNSVQunKaSc5H8Jpd2V0A1I7bzXhKWAw/G5Gk=
@@ -417,10 +341,6 @@
 		</dict>
 		<key>sv.lproj/DragonMedicalSpeechKit.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s/SJT4fP8LQn+PrxpxxE2TGTKqI=
-			</data>
 			<key>hash2</key>
 			<data>
 			Eclg+aIpdcET4f7mr29abPaLri6+uzPjrOkQpNRJCTQ=
@@ -430,10 +350,6 @@
 		</dict>
 		<key>vocon3200_asr.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SU90A6vEb6wg2xOJkIGin6dWbpc=
-			</data>
 			<key>hash2</key>
 			<data>
 			qZbaURa+JJ8aICWQRH3KkD2kk9h4mzwIq26VC7G4CRU=
@@ -441,10 +357,6 @@
 		</dict>
 		<key>wuw.fcf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y80P46CTpDX2LOywtv0AAQE0WkY=
-			</data>
 			<key>hash2</key>
 			<data>
 			aBteLs7Fg7cNca84fvinICGCpUEfEhzMtJzretBv2V0=
